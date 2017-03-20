@@ -1,3 +1,4 @@
 jupyterhub>=0.4
 escapism
-docker-py
+# modify docker-py to docker
+docker
